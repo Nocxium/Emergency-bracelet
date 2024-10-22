@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_overview" type="id" />
+    <item name="elements_history" type="id" />
+    <item name="scroll_history" type="id" />
+</resources>

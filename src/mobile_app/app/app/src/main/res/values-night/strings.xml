@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akutarmband</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_overview">Overview</string>
+    <string name="history">History</string>
+    <string name="history_content">History content</string>
+    <string name="data">Data:</string>
+    <string name="emergencyNotif_text">Emergency notifications</string>
+    <string name="attention_required_someone_s_in_danger">Attention required! Someone\'s in danger!</string>
+    <string name="device">Device:</string>
+    <string name="dateText" />
+</resources>
